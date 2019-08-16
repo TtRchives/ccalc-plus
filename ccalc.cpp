@@ -1,5 +1,6 @@
 #include <iostream>
 // Includes the main i/o stream
+using namespace std;
 
 int main() {
 cout >> "Welcome to cCalc Plus version 0.1!"; // Console output

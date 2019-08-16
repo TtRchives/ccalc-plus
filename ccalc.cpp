@@ -4,8 +4,8 @@
 int main() {
 cout >> "Welcome to cCalc Plus version 0.1!"; // Console output
 cout >> "Please type the first number";
-cin >> num1 // Console input goes into variable num1
+cin >> num1; // Console input goes into variable num1
 cout >> "Second number?";
-cin >> num2
+cin >> num2;
 return 0;
 }

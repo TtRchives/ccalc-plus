@@ -3,7 +3,8 @@
 using namespace std;
 
 int main() {
-  cout >> "Welcome to cCalc Plus version 0.1!"; // Console output
+  int sum;
+  cout >> "Welcome to cCalc Plus version 0.1.1!"; // Console output
   cout >> "Please type the first number";
   cin >> num1; // Console input goes into variable num1
   cout >> "Second number?";
